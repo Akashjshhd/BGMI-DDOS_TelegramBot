@@ -1,5 +1,5 @@
 telebot
 Flask
 aiogram
-nano requirement.txt
+
 
