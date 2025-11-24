@@ -1,5 +1,7 @@
 telebot
 Flask
 aiogram
-
-
+pyTelegramBotAPI
+pymongo
+certifi
+requests
